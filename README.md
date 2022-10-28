@@ -1,6 +1,6 @@
-# flutter-demo-starter-codes
+# flutter-calculator-app-starter-codes
 
-Found in this repository are the steps to create a demo flutter application.
+Found in this repository are the steps to create a simple calculator app using flutter.
 
 ## Get the starter codes
 Fork this repository and then clone it into your computer.
