@@ -267,7 +267,7 @@ class MyButton extends StatelessWidget {
 In the root folder, look for a file named `pubspec.yaml`. Inside the file right under `dependencies:` enter `math_expressions: ^2.0.0`. 
 
 ## Run the app
-To run this app, go to your Terminal/Command Line and run `flutter run`. If you are using VSCode or Android Studio you can run the app by hitting F5.
+To run this app, go to your Terminal/Command-prompt and run `flutter run`. If you are using VSCode or Android Studio you can run the app by hitting F5.
 
 ## References
 The codes in this demo are lifted from the tutorial [Simple Calculator App using Flutter](https://www.geeksforgeeks.org/simple-calculator-app-using-flutter/) by Geek for Geeks.
