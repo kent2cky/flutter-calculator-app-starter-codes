@@ -218,7 +218,7 @@ class _HomePageState extends State<HomePage> {
 
 ```
 
-Still inside the `lib` folder, create a file and name it `button.dart`. Inside the `button.dart` file, copy and paste the following codes:
+Still inside the `lib` folder, create a file and name it `my_button.dart`. Inside the `button.dart` file, copy and paste the following codes:
 
 ```
 import 'package:flutter/material.dart';
